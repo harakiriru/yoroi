@@ -1,10 +1,10 @@
-# Yoroi - The Ultimate Trading Toolkit for Hyperliquid
+[# Yoroi - The Ultimate Trading Toolkit for Hyperliquid
 
 [![Discord](https://img.shields.io/discord/xxQQp9dfWB?label=Discord&logo=discord&style=flat-square)]([YOUR_DISCORD_INVITE_LINK](https://discord.gg/xxQQp9dfWB))
 [![Twitter Follow](https://img.shields.io/twitter/follow/YoroiXYZ?style=social)](https://twitter.com/yoroixyz)
 <!-- Add other relevant badges later: Build Status, License, etc. -->
 
-![Yoroi Banner/Image]([IMAGE_URL_HERE](https://i.imgur.com/Y0Hfki3.png)) 
+[![Yoroi Banner/Image]([[IMAGE_URL_HERE](https://i.imgur.com/Y0Hfki3.png)) ](https://i.imgur.com/Y0Hfki3.png](https://i.imgur.com/Y0Hfki3.png))https://i.imgur.com/Y0Hfki3.png
 
 **Yoroi is building the ultimate toolkit for navigating, analyzing, and trading on the Hyperliquid DEX.**
 
@@ -113,3 +113,4 @@ For now, the best way to contribute is by providing feedback and ideas in our co
 ## 📄 License
 
 *(The license for this project is yet to be determined. It will likely be an open-source license like MIT or Apache 2.0. Details will be added here.)*
+](https://x.com/yoroixyz)
