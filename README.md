@@ -1,12 +1,24 @@
-[# Yoroi - The Ultimate Trading Toolkit for Hyperliquid
+# Yoroi - The Ultimate Trading Toolkit for Hyperliquid
 
-[![Discord](https://img.shields.io/discord/xxQQp9dfWB?label=Discord&logo=discord&style=flat-square)]([YOUR_DISCORD_INVITE_LINK](https://discord.gg/xxQQp9dfWB))
-[![Twitter Follow](https://img.shields.io/twitter/follow/YoroiXYZ?style=social)](https://twitter.com/yoroixyz)
+<!-- 
+    Instructions for Discord Badge:
+    1. Generate a new PERMANENT Discord invite link.
+    2. Get the invite code (the part after 'discord.gg/').
+    3. Replace 'YOUR_NEW_DISCORD_INVITE_CODE' below with that code. 
+-->
+[![Discord](https://img.shields.io/discord/34FDz4sWRP?label=Discord&logo=discord&style=flat-square)](https://discord.gg/34FDz4sWRP)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yoroixyz?style=social)](https://x.com/YoroiXYZ)
 <!-- Add other relevant badges later: Build Status, License, etc. -->
 
-[![Yoroi Banner/Image]([[IMAGE_URL_HERE](https://i.imgur.com/Y0Hfki3.png)) ](https://i.imgur.com/Y0Hfki3.png](https://i.imgur.com/Y0Hfki3.png))https://i.imgur.com/Y0Hfki3.png
+<!-- 
+    Instructions for Image:
+    1. Create an 'assets' folder (or similar) in your repo.
+    2. Upload your banner image (e.g., 'yoroi_banner.png') to that folder.
+    3. Make sure the path below matches the location and filename. 
+-->
+![Yoroi Banner/Image](./assets/Y0Hfki3.png)
 
-**Yoroi is building the ultimate toolkit for navigating, analyzing, and trading on the Hyperliquid DEX.**
+**Yoroi is building the ultimate toolkit for navigating, analyzing, and trading on the Hyperliquid DEX. Visit us at [yoroi.xyz](https://yoroi.xyz).**
 
 ---
 
@@ -79,7 +91,7 @@ We're building Yoroi step-by-step, focusing on delivering value iteratively.
 We believe in recognizing and rewarding those who join us early and help fuel our growth.
 
 *   **Points System:** Earn Yoroi Points by actively using the platform. This includes:
-    *   Trading on Hyperliquid using our referral link.
+    *   Trading on Hyperliquid using our referral link (Link to be provided when available).
     *   Utilizing features that incorporate a builder fee (when implemented).
 *   **Future Utility & Token:** These points are designed to have significant future value.
     *   Our goal is to launch a **Yoroi Token** once the platform achieves stable cash flow or via a community consensus vote.
@@ -90,11 +102,11 @@ We believe in recognizing and rewarding those who join us early and help fuel ou
 
 This is just the beginning. Yoroi is being built *with* the community, *for* the community. Your feedback, ideas, and participation are invaluable, especially in these formative stages.
 
-*   ❓ **Ask questions:** Don't hesitate to ask anything in our [Discord]([YOUR_DISCORD_INVITE_LINK](https://discord.gg/xxQQp9dfWB)).
+*   ❓ **Ask questions:** Don't hesitate to ask anything in our [Discord](https://discord.gg/34FDz4sWRP).
 *   💡 **Share your ideas:** What features would you love to see?
 *   🗣️ **Provide feedback:** Tell us what you think of the Explorer and upcoming tools.
-*   📈 **Use the platform:** Once live, actively use Yoroi and share your experience.
-*   🐦 **Follow us:** Stay updated via our [Twitter](https://twitter.com/YoroiXYZ).
+*   📈 **Use the platform:** Once live, actively use Yoroi and share your experience. Visit [yoroi.xyz](https://yoroi.xyz) for updates.
+*   🐦 **Follow us:** Stay updated via our [Twitter](https://x.com/YoroiXYZ).
 
 **Let's build the future of Hyperliquid trading together! We're thrilled to have you here.**
 
@@ -102,7 +114,7 @@ This is just the beginning. Yoroi is being built *with* the community, *for* the
 
 *(Instructions for setting up the project locally, running tests, or accessing beta versions will be added here once applicable.)*
 
-Currently, the best way to get involved is to join our [Discord]([YOUR_DISCORD_INVITE_LINK](https://discord.gg/xxQQp9dfWB)).
+Currently, the best way to get involved is to join our [Discord](https://discord.gg/34FDz4sWRP).
 
 ## ‍💻 Contributing
 
@@ -112,5 +124,4 @@ For now, the best way to contribute is by providing feedback and ideas in our co
 
 ## 📄 License
 
-*(The license for this project is yet to be determined. It will likely be an open-source license like MIT or Apache 2.0. Details will be added here.)*
-](https://x.com/yoroixyz)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
