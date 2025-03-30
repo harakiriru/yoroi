@@ -110,17 +110,6 @@ This is just the beginning. Yoroi is being built *with* the community, *for* the
 
 **Let's build the future of Hyperliquid trading together! We're thrilled to have you here.**
 
-## 🛠️ Getting Started (Developers / Early Testers)
-
-*(Instructions for setting up the project locally, running tests, or accessing beta versions will be added here once applicable.)*
-
-Currently, the best way to get involved is to join our [Discord](https://discord.gg/34FDz4sWRP).
-
-## ‍💻 Contributing
-
-We welcome contributions! Please read our `CONTRIBUTING.md` (to be created) for details on our code of conduct, and the process for submitting pull requests.
-
-For now, the best way to contribute is by providing feedback and ideas in our community channels.
 
 ## 📄 License
 
